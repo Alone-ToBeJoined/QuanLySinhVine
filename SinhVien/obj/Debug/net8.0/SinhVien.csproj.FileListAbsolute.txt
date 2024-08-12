@@ -1,0 +1,14 @@
+D:\VS project\SinhVien\bin\Debug\net8.0\SinhVien.exe
+D:\VS project\SinhVien\bin\Debug\net8.0\SinhVien.deps.json
+D:\VS project\SinhVien\bin\Debug\net8.0\SinhVien.runtimeconfig.json
+D:\VS project\SinhVien\bin\Debug\net8.0\SinhVien.dll
+D:\VS project\SinhVien\bin\Debug\net8.0\SinhVien.pdb
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.AssemblyInfoInputs.cache
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.AssemblyInfo.cs
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.csproj.CoreCompileInputs.cache
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.dll
+D:\VS project\SinhVien\obj\Debug\net8.0\refint\SinhVien.dll
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.pdb
+D:\VS project\SinhVien\obj\Debug\net8.0\SinhVien.genruntimeconfig.cache
+D:\VS project\SinhVien\obj\Debug\net8.0\ref\SinhVien.dll

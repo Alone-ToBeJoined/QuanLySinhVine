@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS project\\SinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD007CCE-6204-4215-9E24-4F23CA04DD66}|SinhVien.csproj|d:\\vs project\\sinhvien\\nhapsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD007CCE-6204-4215-9E24-4F23CA04DD66}|SinhVien.csproj|solutionrelative:nhapsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD007CCE-6204-4215-9E24-4F23CA04DD66}|SinhVien.csproj|d:\\vs project\\sinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD007CCE-6204-4215-9E24-4F23CA04DD66}|SinhVien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhapSinhVien.cs",
+              "DocumentMoniker": "D:\\VS project\\SinhVien\\NhapSinhVien.cs",
+              "RelativeDocumentMoniker": "NhapSinhVien.cs",
+              "ToolTip": "D:\\VS project\\SinhVien\\NhapSinhVien.cs",
+              "RelativeToolTip": "NhapSinhVien.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAAM4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:32:32.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS project\\SinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VS project\\SinhVien\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:49:51.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
